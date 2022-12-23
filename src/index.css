@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.fixed-bg {
+  background-image: url('./MapleBackground.jpeg');
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.footer{
+  position:absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
